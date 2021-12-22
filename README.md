@@ -1,7 +1,7 @@
 # Kodluyoruz İlk Repo
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/)  Back-End eğitiminde oluşturduğumuz ilk repo.İçerisinde bir ader README dosyası, bir adet de index.html dosyası barındırıyor.
 
-![github](Screenshots\github.png)git push
+![github](C:\Users\ASUS\Pictures\Screenshots\github.png)
 
 ## Installation
 Öncelikle projeyi klonlayın.(Buraya sizin reponuzdan aldığınız link gelecek)
